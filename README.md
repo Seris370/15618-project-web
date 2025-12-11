@@ -10,8 +10,8 @@ Chenghui Yu (cyu4)
 
 # Project Milestone Report
 
-[Project Proposal link](15618-Project-Milestone-Report.pdf)
+[Project Milestone Report link](15618-Project-Milestone-Report.pdf)
 
 # Project Final Report
 
-[Project Proposal link](15618_final_project_report.pdf)
+[Project Final Report link](15618_final_project_report.pdf)
